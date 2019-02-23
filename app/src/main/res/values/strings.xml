@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">课堂易签到</string>
+    <string name="text_1">签到</string>
+    <string name="text_2">记住学号</string>
+    <string name="text_3">请输入姓名</string>
+    <string name="text_4">请输入学号</string>
+    <string name="text_5">签到成功</string>
+    <string name="text_6">签到失败</string>
+    <string name="text_7">学号或姓名不能为空</string>
+    <string name="text_8">请记住学号</string>
+</resources>
